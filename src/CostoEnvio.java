@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 /**
- * @author matia
+ * @author jorge ibarra tenia el nombre del notebook de mi hermano que es donde trabaje.
  */
 public class CostoEnvio {
 
